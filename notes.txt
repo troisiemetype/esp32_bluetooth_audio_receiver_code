@@ -1,0 +1,4 @@
+v1.0
+Add a pullup resistor on EN pin.
+Add markings for BOOT and EN buttons.
+Remove display ? It seems ESP32 cannot handle both A2DP and TFT_eSPI.
